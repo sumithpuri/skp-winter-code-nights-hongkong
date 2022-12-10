@@ -42,7 +42,7 @@ https://github.com/sumithpuri
   </td>
   <td>
   <b>[  C   ] Graph Search or
-  Graph Traversal Algorithms (DFS - Depth First Search – DFS) <br>
+  Graph Traversal Algorithms (DFS - Depth First Search) <br>
   [  C   ] Graph Search or Graph Traversal Algorithms (BFS – Breadth First Search)<br>
   [C++] Binary Search Tree (BST) Traversal – Inorder Tree Traversal<br>
   [C++] Binary Search Tree (BST) Traversal – Postorder Tree Traversal<br>
