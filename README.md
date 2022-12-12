@@ -24,7 +24,7 @@ https://github.com/sumithpuri
 
 <div align=center>
 
-<table style="width:90.0%;vertical-align:middle;border-collapse:collapse;border:none;">
+<table style="width:100.0%;vertical-align:middle;border-collapse:collapse;border:none;">
  <thead>
   <tr><td colspan="2">  </td></tr>
   <tr>
@@ -38,12 +38,11 @@ https://github.com/sumithpuri
  </thead>
  <tr>
   <td>
-  <b>Algorithms &amp; Data Structures</b>
+  <b>Algos &amp; DS</b>
   </td>
   <td>
-  <b>[  C   ] Graph Search or
-  Graph Traversal Algorithms (DFS - Depth First Search) <br>
-  [  C   ] Graph Search or Graph Traversal Algorithms (BFS – Breadth First Search)<br>
+  <b>[  C   ] Graph Search / Traversal Algorithms (DFS - Depth First Search) <br>
+  [  C   ] Graph Search / Traversal Algorithms (BFS – Breadth First Search)<br>
   [C++] Binary Search Tree (BST) Traversal – Inorder Tree Traversal<br>
   [C++] Binary Search Tree (BST) Traversal – Postorder Tree Traversal<br>
   [C++] Binary Search Tree (BST) Traversal – Preorder Tree Traversal<br>
