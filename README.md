@@ -56,10 +56,10 @@ https://github.com/sumithpuri
  </tr>
  <tr>
   <td>
-  <b>Blog Entries</b>
+  <b>Blog Entries (URL Packet)</b>
   </td>
   <td>
-  <a href="https://goo.gl/hFXXuw">https://goo.gl/hFXXuw</a>
+  <a href="https://bridgeurl.com/github-repo-hongkong">https://bridgeurl.com/github-repo-hongkong</a>
   </td>
  </tr>
  <tr>
