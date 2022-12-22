@@ -40,7 +40,7 @@ https://github.com/sumithpuri
   <td>
   <b>Algos &amp; DS</b>
   </td>
-  <td>
+  <td align="left">
   <b>[  C   ] Graph Search / Traversal Algorithms (DFS - Depth First Search) <br>
   [  C   ] Graph Search / Traversal Algorithms (BFS – Breadth First Search)<br>
   [C++] Binary Search Tree (BST) Traversal – Inorder Tree Traversal<br>
@@ -101,7 +101,7 @@ https://github.com/sumithpuri
   <td>
   <b>Historical</b>
   </td>
-  <td>
+  <td align="left">
   <span style='font-family:"Segoe UI Emoji",sans-serif'>&#9989;</span>&nbsp;Started
   this Movement of 1000s of Lines of Java/EE* Code to GitHub<br>
   <span style='font-family:"Segoe UI Emoji",sans-serif'>&#9989;</span>&nbsp;Was
