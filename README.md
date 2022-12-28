@@ -60,10 +60,10 @@ https://github.com/sumithpuri
   </td>
   <td>
   
-  <a href="https://www.rebrand.ly/skp-algo-ds-set-01">Graph Traversal : Breadth/Depth - First Search</a><br/>
-  <a href="https://www.rebrand.ly/skp-algo-ds-set-02">BST Traversal - Inorder, Preorder, Postorder</a><br/>
-  <a href="https://www.rebrand.ly/skp-algo-ds-set-03">Sorting Algorithms - Quick, Merge, Heap</a><br/>
-  <a href="https://www.rebrand.ly/skp-algo-ds-set-04">Dijkstra's, Reverse a... / Circular... - Linked List</a><br/>
+  <a href="https://www.rebrand.ly/skp-algos-ds-01">Graph Traversal : Breadth/Depth - First Search</a><br/>
+  <a href="https://www.rebrand.ly/skp-algos-ds-02">BST Traversal - Inorder, Preorder, Postorder</a><br/>
+  <a href="https://www.rebrand.ly/skp-algos-ds-03">Sorting Algorithms - Quick, Merge, Heap</a><br/>
+  <a href="https://www.rebrand.ly/skp-algos-ds-04">Dijkstra's, Reverse a... / Circular... - Linked List</a><br/>
   
   </td>
  </tr>
